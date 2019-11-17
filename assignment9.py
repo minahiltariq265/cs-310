@@ -54,7 +54,7 @@ else:
     m=c
 print(m)
  #chap6
- n=4
+n=4
 sum=1
 while n<=100:
     sum=sum+(1/n)
